@@ -5,7 +5,7 @@ public class Test1 {
 	public static Test1 test1 = new Test1("yu");
 	
 	public Test1(String string) {
-		System.out.println(string + "");
+		System.out.println(string + "678678");
 	}
 	
 	public static void main(String[] args) {
